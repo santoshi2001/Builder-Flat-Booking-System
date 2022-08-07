@@ -1,0 +1,17 @@
+127.0.0.1 - - [08/Feb/2022:23:16:27 +0530] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [08/Feb/2022:23:16:30 +0530] "GET /BuilderFlatBookingSystem/Login.jsp HTTP/1.1" 200 3199
+0:0:0:0:0:0:0:1 - - [08/Feb/2022:23:16:30 +0530] "GET /BuilderFlatBookingSystem/style.css HTTP/1.1" 404 1019
+0:0:0:0:0:0:0:1 - - [08/Feb/2022:23:16:33 +0530] "GET /BuilderFlatBookingSystem/business-futuristic-skyscraper-banner-23850748.jpg HTTP/1.1" 404 1101
+0:0:0:0:0:0:0:1 - - [08/Feb/2022:23:16:33 +0530] "GET /BuilderFlatBookingSystem/testimonial_background_dubai_1920x800.jpg HTTP/1.1" 404 1083
+0:0:0:0:0:0:0:1 - - [08/Feb/2022:23:17:28 +0530] "POST /BuilderFlatBookingSystem/LoginBuilderServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [08/Feb/2022:23:17:36 +0530] "GET /BuilderFlatBookingSystem/DisplayPropertyServlet HTTP/1.1" 200 2756
+0:0:0:0:0:0:0:1 - - [08/Feb/2022:23:17:37 +0530] "GET /BuilderFlatBookingSystem/images/PAdd.jpg HTTP/1.1" 200 4393
+0:0:0:0:0:0:0:1 - - [08/Feb/2022:23:19:04 +0530] "GET /BuilderFlatBookingSystem/DisplayPropertyServlet HTTP/1.1" 200 3728
+0:0:0:0:0:0:0:1 - - [08/Feb/2022:23:19:07 +0530] "GET /BuilderFlatBookingSystem/images/PAdd.jpg HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [08/Feb/2022:23:19:30 +0530] "GET /BuilderFlatBookingSystem/style.css HTTP/1.1" 404 1019
+0:0:0:0:0:0:0:1 - - [08/Feb/2022:23:19:30 +0530] "GET /BuilderFlatBookingSystem/business-futuristic-skyscraper-banner-23850748.jpg HTTP/1.1" 404 1101
+0:0:0:0:0:0:0:1 - - [08/Feb/2022:23:19:30 +0530] "GET /BuilderFlatBookingSystem/testimonial_background_dubai_1920x800.jpg HTTP/1.1" 404 1083
+0:0:0:0:0:0:0:1 - - [08/Feb/2022:23:19:38 +0530] "POST /BuilderFlatBookingSystem/LoginBuilderServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [08/Feb/2022:23:19:38 +0530] "GET /BuilderFlatBookingSystem/DisplayPropertyServlet HTTP/1.1" 200 3728
+0:0:0:0:0:0:0:1 - - [08/Feb/2022:23:33:47 +0530] "GET /BuilderFlatBookingSystem/DisplayPropertyServlet HTTP/1.1" 500 3034
+0:0:0:0:0:0:0:1 - - [08/Feb/2022:23:36:03 +0530] "GET /BuilderFlatBookingSystem/DisplayPropertyServlet HTTP/1.1" 200 3944

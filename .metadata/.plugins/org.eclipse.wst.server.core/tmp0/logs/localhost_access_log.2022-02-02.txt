@@ -1,0 +1,6 @@
+127.0.0.1 - - [02/Feb/2022:17:02:02 +0530] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [02/Feb/2022:17:02:24 +0530] "GET /BuilderFlatBookingSystem/LoginBuilderServlet HTTP/1.1" 405 1065
+0:0:0:0:0:0:0:1 - - [02/Feb/2022:17:02:52 +0530] "GET /BuilderFlatBookingSystem/Login.jsp HTTP/1.1" 200 3199
+0:0:0:0:0:0:0:1 - - [02/Feb/2022:17:02:53 +0530] "GET /BuilderFlatBookingSystem/style.css HTTP/1.1" 404 1019
+0:0:0:0:0:0:0:1 - - [02/Feb/2022:17:02:59 +0530] "GET /BuilderFlatBookingSystem/business-futuristic-skyscraper-banner-23850748.jpg HTTP/1.1" 404 1101
+0:0:0:0:0:0:0:1 - - [02/Feb/2022:17:02:59 +0530] "GET /BuilderFlatBookingSystem/testimonial_background_dubai_1920x800.jpg HTTP/1.1" 404 1083
